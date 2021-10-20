@@ -1,5 +1,5 @@
 # Algorithms in Python
-commits must first be pushed to another branch, then merged or pushed directly to a branch that matches this rule after status checks have passed.
+Commits must first be pushed to another branch, then merged or pushed directly to a branch that matches this rule after status checks have passed.
 
 This is a set of solutions of classic algorithmic problems written in Python. 
 
